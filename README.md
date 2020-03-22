@@ -31,5 +31,7 @@ Modify them to fit your needs.
 
 ### theming
 
--   `fonts.sh` - Install fonts
--   `powerline-shell.sh` - Install powerline shell
+- `fonts.sh` - Install fonts
+- `powerline-shell.sh` - Install powerline shell
+- `breeze-cursor.sh` - Install breeze cursor theme
+- `arc-theme.sh` - Install arc theme
